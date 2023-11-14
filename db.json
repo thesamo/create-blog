@@ -1,0 +1,72 @@
+{
+  "meals": [
+    {
+      "id": "52946",
+      "strMeal": "Kung Po Prawns",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1525873040.jpg"
+    },
+    {
+      "id": "52821",
+      "strMeal": "malasss",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg"
+    },
+    {
+      "strMeal": "Mediterranean Pasta Salad",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+      "id": "52777"
+    },
+    {
+      "strMeal": "Mee goreng mamak",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
+      "id": "53048"
+    },
+    {
+      "strMeal": "Nasi lemak",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
+      "id": "53051"
+    },
+    {
+      "strMeal": "Portuguese fish stew (Caldeirada de peixe)",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
+      "id": "53045"
+    },
+    {
+      "strMeal": "Recheado Masala Fish",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+      "id": "52809"
+    },
+    {
+      "strMeal": "Salmon Avocado Salad",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+      "id": "52960"
+    },
+    {
+      "strMeal": "Salmon Prawn Risotto",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+      "id": "52823"
+    },
+    {
+      "strMeal": "Saltfish and Ackee",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg",
+      "idMeal": "5293sas6",
+      "id": "52936"
+    },
+    {
+      "strMeal": "Seafood fideuà",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
+      "id": "52836"
+    },
+    {
+      "strMeal": "Sledz w Oleju (Polish Herrings)",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
+      "id": "53023"
+    },
+    {
+      "strMeal": "Sushi",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+      "id": "53065"
+    }
+  
+
+  ]
+}
